@@ -1,4 +1,4 @@
-## **Programa de Registro de Pessoas**
+#### **Programa de Registro de Pessoas**
 
 Este programa permite registrar informações de pessoas, como nome, telefone e documentos como CPF, Carteira de Identidade (CI), Carteira Nacional de Habilitação (CNH) e Título de Eleitor (TE).
 Como utilizar o programa
