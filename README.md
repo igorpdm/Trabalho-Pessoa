@@ -30,13 +30,14 @@ Este programa permite registrar informações de pessoas, como nome, telefone e 
 1. Abra um terminal ou prompt de comando.
 2. Navegue até o diretório onde o arquivo `Main.java` está localizado.
 3. Compile o arquivo Java executando o seguinte comando:
-
+```bash
 javac Main.java
+```
 
 4. Após a compilação bem-sucedida, execute o programa com o comando:
-
+```bash
 java Main
-
+```
 5. Siga as instruções exibidas no console para interagir com o programa.
 
 ## Observações
